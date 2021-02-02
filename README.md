@@ -2,7 +2,9 @@
 
 Forum database project to learn MySQL.
 
-## Some example cruds:
+![alt text](https://github.com/bhajduk/forum-db/blob/main/schema.svg)
+
+## CRUD examples
 
 #### Phrase search
 ```sql
