@@ -2,7 +2,7 @@
 
 Forum database project to learn MySQL.
 
-![alt text](https://github.com/bhajduk/forum-db/blob/main/schema.svg)
+<img src="https://github.com/bhajduk/forum-db/blob/main/schema.svg" width="600">
 
 ## CRUD examples
 
