@@ -1,3 +1,285 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="481px" height="401px" viewBox="-0.5 -0.5 481 401" content="&lt;mxfile host=&quot;app.diagrams.net&quot; modified=&quot;2020-06-12T11:26:08.813Z&quot; agent=&quot;5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36&quot; etag=&quot;dVLRGfyCPmLMwlbPSUTz&quot; version=&quot;13.1.6&quot; type=&quot;device&quot;&gt;&lt;diagram id=&quot;KZczJsixarslFs42sei7&quot; name=&quot;Page-1&quot;&gt;7ZtRc+I2EMc/DY/tYNkQeAwcuWMmaRlIe+lTRrGFrZ5seWQR4D59V7aE8akl9GLGZEZJZoL+kixpfyvtGkPPn6a7zwLnyQOPCOuhfrTr+Z96CKH+EME/pewrZeQHlRALGlWSVwsr+p1osa/VDY1I0WgoOWeS5k0x5FlGQtnQsBB822y25qw5ao5jYgmrEDNb/UojmehVoJta/0JonJiRveG4qkmxaaxXUiQ44tsjyZ/1/KngXFav0t2UMGU8Y5eq391/1B4mJkgmz+kQzQP/6xwXr/hmEs2Xz4unZ/RLYCYn92bFJAID6CIXMuExzzCb1epE8E0WEXXZPpTqNvec5yB6IP5NpNxrmngjOUiJTJmuhRmL/ZPq/2swHhvhr1IYjwIjfNrpIarS/ri0IIKmRBKhxUJiIW8VcBBmyxRn0e8ZMRV3lLFD76jRbF9pRy1sw2pbF3wjQnLCmp5mD0PGRJ5qOKoaKlsfDaHBfSYclib20EAQhiV9bToj1j4dH9rV2OGFJv8/vMAfduoFXtMDBm/yf4vg2c7w86iDM0mj4LpIjz4S6avY1D46FzW6KtT6uq+YbfRIfxRwXP6Iv9jSlOHSqmueSeMJymZhQll0j/d8o5YNNg+/mdIk4YJ+h/bYMC6RaA9AQ3U1MP6UMy7KcXzSV7+Nnit1RT2WIAX0XRg+3g/SA941Gt7jQppZcsZwXtCXct6qYwqkaDbhUvLUeJJe5V1zUuvyB+oxo3EGWghjqZhS2aJajRec8p9XIiTZneSta4ORDrY6FfKGurytE4uDlhwnFYPhhXwEWT6yAR95hj6oP//t0XIWWKksWQv+jRg7ZrzyniPTaqnIcUiz+J6s1UqCWlnqxSmJgwXXrNy7CY0ikpUnjsQSvxw8Mec0k+XiBxP4AxtN1ekxgDlNoezVZfhTzYWc8gymiWmJi4C7bIlymQZY9K9gT+6mt2lrumh4Hlx0Kba+xTajsN1Q/8/b5fTL7dLB/Xm4A9Qx3MCCm+Oi2EYObxt4b0Yd4zV3v0d8SYopc3jbwOv1g67P5oHFN4Qku5qlI/x+wv6ZqdXFCKOxRXiKJYm5vrZLwa8hBQ8G/pkpuDky2j8K7KM+1I7i8vAT++oDJeL2XZakEmzqjvo2+Haei/v2nVZEilDQXFKeQcXj7Mlt4fcg7j4ft6P5avMSuoDedUA/uIEJ6ObB3JsB3cTd9jM/O6AXta+4mH5id32cmI7sd9cd4TYJdx7VzdMcl7VdhG/nId1c2GVtl0Lc/dtsnr2HFxyM4PK1a8nXzn8GOkKXchL79i0HJ3Fh/MR++jiJmmc/KXPZeMuQu8/VbMjucwxt0e08U/PsTM1l4u3xvYI07cYCHMLq1UJdGv5+vp0/CzWfdj6+1YIArODOH2arx9uHhSP8HsKDy2VZUKy/olDWHX3Rw5/9Aw==&lt;/diagram&gt;&lt;/mxfile&gt;"><defs><clipPath id="mx-clip-324-31-152-26-0"><rect x="324" y="31" width="152" height="26"/></clipPath><clipPath id="mx-clip-324-57-152-26-0"><rect x="324" y="57" width="152" height="26"/></clipPath><clipPath id="mx-clip-324-83-152-26-0"><rect x="324" y="83" width="152" height="26"/></clipPath><clipPath id="mx-clip-324-109-152-26-0"><rect x="324" y="109" width="152" height="26"/></clipPath><clipPath id="mx-clip-324-135-152-26-0"><rect x="324" y="135" width="152" height="26"/></clipPath><clipPath id="mx-clip-324-324-152-26-0"><rect x="324" y="324" width="152" height="26"/></clipPath><clipPath id="mx-clip-324-350-152-26-0"><rect x="324" y="350" width="152" height="26"/></clipPath><clipPath id="mx-clip-324-376-152-26-0"><rect x="324" y="376" width="152" height="26"/></clipPath><clipPath id="mx-clip-4-298-152-26-0"><rect x="4" y="298" width="152" height="26"/></clipPath><clipPath id="mx-clip-4-324-152-26-0"><rect x="4" y="324" width="152" height="26"/></clipPath><clipPath id="mx-clip-4-350-152-26-0"><rect x="4" y="350" width="152" height="26"/></clipPath><clipPath id="mx-clip-4-376-152-26-0"><rect x="4" y="376" width="152" height="26"/></clipPath><clipPath id="mx-clip-4-31-152-26-0"><rect x="4" y="31" width="152" height="26"/></clipPath><clipPath id="mx-clip-4-57-152-26-0"><rect x="4" y="57" width="152" height="26"/></clipPath><clipPath id="mx-clip-4-83-152-26-0"><rect x="4" y="83" width="152" height="26"/></clipPath><clipPath id="mx-clip-4-109-152-26-0"><rect x="4" y="109" width="152" height="26"/></clipPath><clipPath id="mx-clip-4-135-152-26-0"><rect x="4" y="135" width="152" height="26"/></clipPath><clipPath id="mx-clip-4-161-152-26-0"><rect x="4" y="161" width="152" height="26"/></clipPath></defs><g><path d="M 80 267 L 80 224.5 L 79.8 224.5 L 79.84 181.58" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/><path d="M 76 263 L 84 263 M 76 259 L 84 259" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 75.84 181.58 L 79.83 189.58 L 83.84 181.59" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 320 91 L 160 91" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/><path d="M 316 95 L 316 87 M 312 95 L 312 87" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 160 95 L 168 91 L 160 87" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 320 358 L 160 358" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/><path d="M 316 362 L 316 354 M 312 362 L 312 354" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 160 362 L 168 358 L 160 354" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 320 26 L 320 0 L 480 0 L 480 26" fill="#e0e0e0" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 320 26 L 320 156 L 480 156 L 480 26" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 320 26 L 480 26" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="14px"><text x="399.5" y="18.5">User</text></g><rect x="320" y="26" width="160" height="26" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-324-31-152-26-0)" font-size="12px"><text x="325.5" y="43.5">user_id INT</text></g><rect x="320" y="52" width="160" height="26" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-324-57-152-26-0)" font-size="12px"><text x="325.5" y="69.5">nick VARCHAR</text></g><rect x="320" y="78" width="160" height="26" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-324-83-152-26-0)" font-size="12px"><text x="325.5" y="95.5">passwd VARCHAR</text></g><rect x="320" y="104" width="160" height="26" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-324-109-152-26-0)" font-size="12px"><text x="325.5" y="121.5">email VARCHAR</text></g><rect x="320" y="130" width="160" height="26" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-324-135-152-26-0)" font-size="12px"><text x="325.5" y="147.5">country VARCHAR</text></g><path d="M 320 319 L 320 293 L 480 293 L 480 319" fill="#e0e0e0" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 320 319 L 320 397 L 480 397 L 480 319" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 320 319 L 480 319" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="14px"><text x="399.5" y="311.5">Category</text></g><rect x="320" y="319" width="160" height="26" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-324-324-152-26-0)" font-size="12px"><text x="325.5" y="336.5">category_id INT</text></g><rect x="320" y="345" width="160" height="26" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-324-350-152-26-0)" font-size="12px"><text x="325.5" y="362.5">title VARCHAR</text></g><rect x="320" y="371" width="160" height="26" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-324-376-152-26-0)" font-size="12px"><text x="325.5" y="388.5">description TEXT</text></g><path d="M 0 293 L 0 267 L 160 267 L 160 293" fill="#e0e0e0" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 0 293 L 0 397 L 160 397 L 160 293" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 0 293 L 160 293" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="14px"><text x="79.5" y="285.5">Subcategory</text></g><rect x="0" y="293" width="160" height="26" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-4-298-152-26-0)" font-size="12px"><text x="5.5" y="310.5">subcategory_id INT</text></g><rect x="0" y="319" width="160" height="26" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-4-324-152-26-0)" font-size="12px"><text x="5.5" y="336.5">category_id INT</text></g><rect x="0" y="345" width="160" height="26" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-4-350-152-26-0)" font-size="12px"><text x="5.5" y="362.5">title VARCHAR</text></g><rect x="0" y="371" width="160" height="26" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-4-376-152-26-0)" font-size="12px"><text x="5.5" y="388.5">description TEXT</text></g><path d="M 0 26 L 0 0 L 160 0 L 160 26" fill="#e0e0e0" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 0 26 L 0 182 L 160 182 L 160 26" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><path d="M 0 26 L 160 26" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/><g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="14px"><text x="79.5" y="18.5">Post</text></g><rect x="0" y="26" width="160" height="26" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-4-31-152-26-0)" font-size="12px"><text x="5.5" y="43.5">post_id INT</text></g><rect x="0" y="52" width="160" height="26" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-4-57-152-26-0)" font-size="12px"><text x="5.5" y="69.5">subcategory_id INT</text></g><rect x="0" y="78" width="160" height="26" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-4-83-152-26-0)" font-size="12px"><text x="5.5" y="95.5">user_id INT</text></g><rect x="0" y="104" width="160" height="26" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-4-109-152-26-0)" font-size="12px"><text x="5.5" y="121.5">title VARCHAR</text></g><rect x="0" y="130" width="160" height="26" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-4-135-152-26-0)" font-size="12px"><text x="5.5" y="147.5">content TEXT</text></g><rect x="0" y="156" width="160" height="26" fill="none" stroke="none" pointer-events="all"/><g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-4-161-152-26-0)" font-size="12px"><text x="5.5" y="173.5">date TIMESTAMP</text></g></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 481 401" style="enable-background:new 0 0 481 401;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st2{fill:#E0E0E0;stroke:#000000;stroke-miterlimit:10;}
+	.st3{fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
+	.st4{font-family:'ArialMT';}
+	.st5{font-size:14px;}
+	.st6{fill:none;}
+	.st7{clip-path:url(#SVGID_2_);}
+	.st8{font-size:12px;}
+	.st9{clip-path:url(#SVGID_4_);}
+	.st10{clip-path:url(#SVGID_6_);}
+	.st11{clip-path:url(#SVGID_8_);}
+	.st12{clip-path:url(#SVGID_10_);}
+	.st13{clip-path:url(#SVGID_12_);}
+	.st14{clip-path:url(#SVGID_14_);}
+	.st15{clip-path:url(#SVGID_16_);}
+	.st16{clip-path:url(#SVGID_18_);}
+	.st17{clip-path:url(#SVGID_20_);}
+	.st18{clip-path:url(#SVGID_22_);}
+	.st19{clip-path:url(#SVGID_24_);}
+	.st20{clip-path:url(#SVGID_26_);}
+	.st21{clip-path:url(#SVGID_28_);}
+	.st22{clip-path:url(#SVGID_30_);}
+	.st23{clip-path:url(#SVGID_32_);}
+	.st24{clip-path:url(#SVGID_34_);}
+	.st25{clip-path:url(#SVGID_36_);}
+</style>
+<rect class="st0" width="481" height="401"/>
+<g>
+	<path pointer-events="stroke" class="st1" d="M80.5,267.5V225h-0.2l0-42.9"/>
+	<path pointer-events="all" class="st1" d="M76.5,263.5h8 M76.5,259.5h8"/>
+	<path pointer-events="all" class="st1" d="M76.3,182.1l4,8l4-8"/>
+	<path pointer-events="stroke" class="st1" d="M320.5,91.5h-160"/>
+	<path pointer-events="all" class="st1" d="M316.5,95.5v-8 M312.5,95.5v-8"/>
+	<path pointer-events="all" class="st1" d="M160.5,95.5l8-4l-8-4"/>
+	<path pointer-events="stroke" class="st1" d="M320.5,358.5h-160"/>
+	<path pointer-events="all" class="st1" d="M316.5,362.5v-8 M312.5,362.5v-8"/>
+	<path pointer-events="all" class="st1" d="M160.5,362.5l8-4l-8-4"/>
+	<path pointer-events="all" class="st2" d="M320.5,26.5v-26h160v26"/>
+	<path pointer-events="all" class="st3" d="M320.5,26.5v130h160v-130"/>
+	<path pointer-events="all" class="st1" d="M320.5,26.5h160"/>
+	<g>
+		<text transform="matrix(1 0 0 1 385.2207 19)" class="st4 st5">User</text>
+	</g>
+	<rect x="320.5" y="26.5" pointer-events="all" class="st6" width="160" height="26"/>
+	<g>
+		<defs>
+			<rect id="SVGID_1_" x="324.5" y="31.5" width="152" height="26"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st7">
+			<text transform="matrix(1 0 0 1 326 44)" class="st4 st8">user_id INT</text>
+		</g>
+	</g>
+	<rect x="320.5" y="52.5" pointer-events="all" class="st6" width="160" height="26"/>
+	<g>
+		<defs>
+			<rect id="SVGID_3_" x="324.5" y="57.5" width="152" height="26"/>
+		</defs>
+		<clipPath id="SVGID_4_">
+			<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st9">
+			<text transform="matrix(1 0 0 1 326 70)" class="st4 st8">nick VARCHAR</text>
+		</g>
+	</g>
+	<rect x="320.5" y="78.5" pointer-events="all" class="st6" width="160" height="26"/>
+	<g>
+		<defs>
+			<rect id="SVGID_5_" x="324.5" y="83.5" width="152" height="26"/>
+		</defs>
+		<clipPath id="SVGID_6_">
+			<use xlink:href="#SVGID_5_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st10">
+			<text transform="matrix(1 0 0 1 326 96)" class="st4 st8">passwd VARCHAR</text>
+		</g>
+	</g>
+	<rect x="320.5" y="104.5" pointer-events="all" class="st6" width="160" height="26"/>
+	<g>
+		<defs>
+			<rect id="SVGID_7_" x="324.5" y="109.5" width="152" height="26"/>
+		</defs>
+		<clipPath id="SVGID_8_">
+			<use xlink:href="#SVGID_7_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st11">
+			<text transform="matrix(1 0 0 1 326 122)" class="st4 st8">email VARCHAR</text>
+		</g>
+	</g>
+	<rect x="320.5" y="130.5" pointer-events="all" class="st6" width="160" height="26"/>
+	<g>
+		<defs>
+			<rect id="SVGID_9_" x="324.5" y="135.5" width="152" height="26"/>
+		</defs>
+		<clipPath id="SVGID_10_">
+			<use xlink:href="#SVGID_9_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st12">
+			<text transform="matrix(1 0 0 1 326 148)" class="st4 st8">country VARCHAR</text>
+		</g>
+	</g>
+	<path pointer-events="all" class="st2" d="M320.5,319.5v-26h160v26"/>
+	<path pointer-events="all" class="st3" d="M320.5,319.5v78h160v-78"/>
+	<path pointer-events="all" class="st1" d="M320.5,319.5h160"/>
+	<g>
+		<text transform="matrix(1 0 0 1 371.5967 312)" class="st4 st5">Category</text>
+	</g>
+	<rect x="320.5" y="319.5" pointer-events="all" class="st6" width="160" height="26"/>
+	<g>
+		<defs>
+			<rect id="SVGID_11_" x="324.5" y="324.5" width="152" height="26"/>
+		</defs>
+		<clipPath id="SVGID_12_">
+			<use xlink:href="#SVGID_11_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st13">
+			<text transform="matrix(1 0 0 1 326 337)" class="st4 st8">category_id INT</text>
+		</g>
+	</g>
+	<rect x="320.5" y="345.5" pointer-events="all" class="st6" width="160" height="26"/>
+	<g>
+		<defs>
+			<rect id="SVGID_13_" x="324.5" y="350.5" width="152" height="26"/>
+		</defs>
+		<clipPath id="SVGID_14_">
+			<use xlink:href="#SVGID_13_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st14">
+			<text transform="matrix(1 0 0 1 326 363)" class="st4 st8">title VARCHAR</text>
+		</g>
+	</g>
+	<rect x="320.5" y="371.5" pointer-events="all" class="st6" width="160" height="26"/>
+	<g>
+		<defs>
+			<rect id="SVGID_15_" x="324.5" y="376.5" width="152" height="26"/>
+		</defs>
+		<clipPath id="SVGID_16_">
+			<use xlink:href="#SVGID_15_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st15">
+			<text transform="matrix(1 0 0 1 326 389)" class="st4 st8">description TEXT</text>
+		</g>
+	</g>
+	<path pointer-events="all" class="st2" d="M0.5,293.5v-26h160v26"/>
+	<path pointer-events="all" class="st3" d="M0.5,293.5v104h160v-104"/>
+	<path pointer-events="all" class="st1" d="M0.5,293.5h160"/>
+	<g>
+		<text transform="matrix(1 0 0 1 40.6968 286)" class="st4 st5">Subcategory</text>
+	</g>
+	<rect x="0.5" y="293.5" pointer-events="all" class="st6" width="160" height="26"/>
+	<g>
+		<defs>
+			<rect id="SVGID_17_" x="4.5" y="298.5" width="152" height="26"/>
+		</defs>
+		<clipPath id="SVGID_18_">
+			<use xlink:href="#SVGID_17_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st16">
+			<text transform="matrix(1 0 0 1 6 311)" class="st4 st8">subcategory_id INT</text>
+		</g>
+	</g>
+	<rect x="0.5" y="319.5" pointer-events="all" class="st6" width="160" height="26"/>
+	<g>
+		<defs>
+			<rect id="SVGID_19_" x="4.5" y="324.5" width="152" height="26"/>
+		</defs>
+		<clipPath id="SVGID_20_">
+			<use xlink:href="#SVGID_19_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st17">
+			<text transform="matrix(1 0 0 1 6 337)" class="st4 st8">category_id INT</text>
+		</g>
+	</g>
+	<rect x="0.5" y="345.5" pointer-events="all" class="st6" width="160" height="26"/>
+	<g>
+		<defs>
+			<rect id="SVGID_21_" x="4.5" y="350.5" width="152" height="26"/>
+		</defs>
+		<clipPath id="SVGID_22_">
+			<use xlink:href="#SVGID_21_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st18">
+			<text transform="matrix(1 0 0 1 6 363)" class="st4 st8">title VARCHAR</text>
+		</g>
+	</g>
+	<rect x="0.5" y="371.5" pointer-events="all" class="st6" width="160" height="26"/>
+	<g>
+		<defs>
+			<rect id="SVGID_23_" x="4.5" y="376.5" width="152" height="26"/>
+		</defs>
+		<clipPath id="SVGID_24_">
+			<use xlink:href="#SVGID_23_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st19">
+			<text transform="matrix(1 0 0 1 6 389)" class="st4 st8">description TEXT</text>
+		</g>
+	</g>
+	<path pointer-events="all" class="st2" d="M0.5,26.5v-26h160v26"/>
+	<path pointer-events="all" class="st3" d="M0.5,26.5v156h160v-156"/>
+	<path pointer-events="all" class="st1" d="M0.5,26.5h160"/>
+	<g>
+		<text transform="matrix(1 0 0 1 65.9932 19)" class="st4 st5">Post</text>
+	</g>
+	<rect x="0.5" y="26.5" pointer-events="all" class="st6" width="160" height="26"/>
+	<g>
+		<defs>
+			<rect id="SVGID_25_" x="4.5" y="31.5" width="152" height="26"/>
+		</defs>
+		<clipPath id="SVGID_26_">
+			<use xlink:href="#SVGID_25_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st20">
+			<text transform="matrix(1 0 0 1 6 44)" class="st4 st8">post_id INT</text>
+		</g>
+	</g>
+	<rect x="0.5" y="52.5" pointer-events="all" class="st6" width="160" height="26"/>
+	<g>
+		<defs>
+			<rect id="SVGID_27_" x="4.5" y="57.5" width="152" height="26"/>
+		</defs>
+		<clipPath id="SVGID_28_">
+			<use xlink:href="#SVGID_27_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st21">
+			<text transform="matrix(1 0 0 1 6 70)" class="st4 st8">subcategory_id INT</text>
+		</g>
+	</g>
+	<rect x="0.5" y="78.5" pointer-events="all" class="st6" width="160" height="26"/>
+	<g>
+		<defs>
+			<rect id="SVGID_29_" x="4.5" y="83.5" width="152" height="26"/>
+		</defs>
+		<clipPath id="SVGID_30_">
+			<use xlink:href="#SVGID_29_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st22">
+			<text transform="matrix(1 0 0 1 6 96)" class="st4 st8">user_id INT</text>
+		</g>
+	</g>
+	<rect x="0.5" y="104.5" pointer-events="all" class="st6" width="160" height="26"/>
+	<g>
+		<defs>
+			<rect id="SVGID_31_" x="4.5" y="109.5" width="152" height="26"/>
+		</defs>
+		<clipPath id="SVGID_32_">
+			<use xlink:href="#SVGID_31_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st23">
+			<text transform="matrix(1 0 0 1 6 122)" class="st4 st8">title VARCHAR</text>
+		</g>
+	</g>
+	<rect x="0.5" y="130.5" pointer-events="all" class="st6" width="160" height="26"/>
+	<g>
+		<defs>
+			<rect id="SVGID_33_" x="4.5" y="135.5" width="152" height="26"/>
+		</defs>
+		<clipPath id="SVGID_34_">
+			<use xlink:href="#SVGID_33_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st24">
+			<text transform="matrix(1 0 0 1 6 148)" class="st4 st8">content TEXT</text>
+		</g>
+	</g>
+	<rect x="0.5" y="156.5" pointer-events="all" class="st6" width="160" height="26"/>
+	<g>
+		<defs>
+			<rect id="SVGID_35_" x="4.5" y="161.5" width="152" height="26"/>
+		</defs>
+		<clipPath id="SVGID_36_">
+			<use xlink:href="#SVGID_35_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st25">
+			<text transform="matrix(1 0 0 1 6 174)" class="st4 st8">date TIMESTAMP</text>
+		</g>
+	</g>
+</g>
+</svg>
